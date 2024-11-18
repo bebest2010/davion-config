@@ -6,6 +6,7 @@ fee_position_info:
   position_id: '10240000'
   public_key: '0x05d08ae9202f9e19ffa0211676536ba3e4c5f1e433a4c01d60fceae00a095100'
 max_funding_rate: '2237'
+frozen_assets: ["0x574c442d3600000000000000000000"]
 is_risk_by_balance_only: false # upper_bound is price⋅asset_quantity
 orders_tree_height: 64
 positions_tree_height: 64
